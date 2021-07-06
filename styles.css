@@ -1,0 +1,47 @@
+body
+{
+    background-image: url("https://pixabay.com/get/g1269252a2c24361ea3bfa69a70d7fa972a82524cef5306a3e0600f8a5171a36db67f48e29eb417da24e034b05fb6f962_1920.jpg");
+}
+
+#title
+{
+    color: aliceblue;
+}
+
+
+
+table,td,tr,th
+{
+    border: 1px solid;
+    background-color: #ffdf4eaf;
+    
+}
+
+#space
+{
+    height: 3px;
+}
+
+#content
+{
+    width: 1100px; 
+    height: 1300px;
+    margin: 10 px;
+    border-radius: 10px;
+    background-color: #b8b8ff;
+}
+
+#form
+{
+    margin: 50px auto;
+    height: 120px;
+    width: 1000px;
+    background-color: #b8b8ff;
+    border-radius: 10px;
+}
+
+#bt
+{
+    margin:15px auto;
+
+}
